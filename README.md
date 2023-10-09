@@ -18,3 +18,13 @@ This is an event management website where people can find different types of soc
 - In the registration page, there are four fields to fill out: full name, profile image, valid email, and password. Users must complete all the fields; otherwise, they will receive an error message. Additionally, if the user doesn't meet the password criteria, such as having a minimum of six characters with at least one capital letter and one special character, they will see an error message below the password field.
 
 - On the registration and login forms, there is a toggle button. If a new user clicks it, the login page will redirect to the registration page. If a user already has an account, clicking the toggle button will redirect to the login page.
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+#### Answer: A
+
+<i>javascript is case sensetive. therefore we decleard a variable greeting but dont set a value, then declear "greetign" with the value of empty  object, but dont in a variable. so  this will initially set on global object. so it dont give error and result is {}</i>
+
+</p>
+</details>
