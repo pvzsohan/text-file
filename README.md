@@ -1,6 +1,6 @@
 # text-file
 this a event management website. in this website we proviode 
-### Website Name: [EventWonder](https://event-management-msp.netlify.app/){:target="_blank"}
+### Website Name: [EventWonder](https://event-management-msp.netlify.app/)[:target="_blank"]
 
 ### website Live Link: https://event-management-msp.netlify.app
 
