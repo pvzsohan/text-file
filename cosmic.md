@@ -1,5 +1,5 @@
-### Website Name: [Cosmico](https://event-management-msp.netlify.app/)
-### website Live Link: https://event-management-msp.netlify.app
+### Website Name: [Cosmico](https://cosmico-brand-shop.netlify.app)
+### website Live Link: https://cosmico-brand-shop.netlify.app
 
 ### Features and Functionalities of This Website:  
 
